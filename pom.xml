@@ -6,10 +6,10 @@
     <version>2.6.4</version>
   </parent>
   <groupId>com.ecommerce</groupId>
-  <artifactId>Ecommerce</artifactId>
+  <artifactId>ProactiveProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Ecommerce</name>
-  <description>Ecommerce Project</description>
+  <description>Proactive Project</description>
   <properties>
 		<java.version>8</java.version>
 	</properties>
